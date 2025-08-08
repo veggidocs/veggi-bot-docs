@@ -8,3 +8,6 @@
 - [Disparo em Massa (B2B)](disparo.md)
 
 - [Fluxograma Geral](fluxograma.md)
+
+** N8N Repositório - Documentação **
+- [Fluxo Coletor (Auxiliar)](fluxo_coletor_ids.md)
