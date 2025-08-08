@@ -1,12 +1,10 @@
 
 - [Início](README.md)
-- [Instagram (Manychat)](instagram.md)
-- [WhatsApp - Principal](principal.md)
-- [WhatsApp - Mídia Paga](midiapaga.md)
-- [Respondi.app](respondi.md)
-- [VTEX - Confirmação de Pedido](vtex.md)
-- [Disparo em Massa (B2B)](disparo.md)
-- [Fluxograma Geral](fluxograma.md)
-- []
-- [N8N]
-- [Fluxo Coletor (Auxiliar)](fluxo_coletor_ids.md)
+- [BotConversa - Instagram (Manychat)](instagram.md)
+- [BotConversa - WhatsApp - Principal](principal.md)
+- [BotConversa - WhatsApp - Mídia Paga](midiapaga.md)
+- [BotConversa - Respondi.app](respondi.md)
+- [BotConversa - VTEX Confirmação de Pedido](vtex.md)
+- [BotConversa - Disparo em Massa (B2B)](disparo.md)
+- [BotConversa - Fluxograma Geral](fluxograma.md)
+- [N8N - Fluxo Coletor (Auxiliar)](fluxo_coletor_ids.md)
