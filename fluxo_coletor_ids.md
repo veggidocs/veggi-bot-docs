@@ -41,6 +41,6 @@ Este fluxo **não restringe o uso por ID**, pois sua função é justamente iden
 
 ## 🗂️ Histórico
 
-- **Data de criação:** agosto/2025
-- **Responsável:** @comercial
+- **Data de criação:** Agosto/2025
+- **Responsável:** Nathália Vegi
 - **Empresa:** Confecção Veggi
